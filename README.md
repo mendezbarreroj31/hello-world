@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 I like working on R, and js
-I'm lerning tho
+I'm learning tho
